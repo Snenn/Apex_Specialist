@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052w000004rTfDAAU",
+    "createdByName": "Mikalai Sniahurski",
+    "createdDate": "2020-07-29T23:33:27.000Z",
+    "fileName": "triggers/MaintenanceRequest.trigger",
+    "fullName": "MaintenanceRequest",
+    "id": "01q2w000000I4JgAAK",
+    "lastModifiedById": "0052w000004rTfDAAU",
+    "lastModifiedByName": "Mikalai Sniahurski",
+    "lastModifiedDate": "2020-07-31T05:05:34.000Z",
+    "manageableState": "unmanaged",
+    "type": "ApexTrigger"
+  }
+}
